@@ -3,7 +3,7 @@
     wget https://sourceforge.net/projects/boost/files/boost/1.69.0/boost_1_69_0.tar.gz
 ## Разархивация
     tar xvzf boost_1_69_0.tar.gz
-##  Прдсчет количества файлов
+##  Подсчет количества файлов
     ls | wc -l
 В диреектории *boost_1_69_0* расположено 18 файлов, не включая вложенные директории
 ___
